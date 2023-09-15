@@ -1,0 +1,17 @@
+
+
+
+// Route::get('/upload', function(){
+//     return view('image');
+// });
+
+// Route::post('/upload', function(){
+//     $image = new ImageService();
+//     $imgLink = [];
+//     foreach(request()->images as $prImage){
+//         $imgLink[] = $image->upload($prImage, 'product', ['small','medium']);
+//     }
+
+//     return $imgLink;
+//     //return view('image');
+// });
